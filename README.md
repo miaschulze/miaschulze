@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mia! <br/><a>Baylor Data Science Graduate</a>
+<h1>Hi, I'm Mia! <br/><a>B.S. in Data Science - Baylor University</a>
 
 <h2>👩‍💻 Data Analysis Projects:</h2>
 
