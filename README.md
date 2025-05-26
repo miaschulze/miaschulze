@@ -8,3 +8,6 @@
 <h2>SQL Projects:</h2>
 
 - <b></b>[Restaurant Order Analysis](https://github.com/miaschulze/Restaurant-Order-Analysis)
+
+<h2>Excel Dashboards:</h2>
+
